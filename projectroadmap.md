@@ -8,16 +8,16 @@ Sprint 1:
 Related code: https://github.com/MycroftAI/skill-reminder
 
 Sprint 2:
-- [ ] Start coding 
-- [ ] Make updates with commit messages with Github desktop
+- [x] Start coding 
+- [x] Make updates with commit messages with Github desktop
 - [ ] Commit at least 6 code changes of significant size (not just a spelling error) with a comment explaing what was done (be specific)
-- [ ] Keep track of progress on projectroadmap.md 
+- [x] Keep track of progress on projectroadmap.md 
 
 Sprint 3:
 - [ ] Continue coding & refining
 - [ ] Test code
-- [ ] Create one PowerPoint slide to introduce the project & upload it. Slide needs to include: members, title, tag line, and 1-2 screenshots.
-- [ ] Upload PPT slide in D2L
+- [x] Create one PowerPoint slide to introduce the project & upload it. Slide needs to include: members, title, tag line, and 1-2 screenshots.
+- [x] Upload PPT slide in D2L
 
 Final Part:
 - [ ] Answer questions below (see "Final Project Questions")
